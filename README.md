@@ -1,7 +1,7 @@
 ## What is this?
 
-This is a bare bones React Web App without some of the annoying parts.
-All you need to set this App up is to run the given react-setup.sh file with the App name
+This is a bare bones React Web App without some of the annoying parts. \
+All you need to set this App up is to run the given react-setup.sh file with the App name and rename the root project folder.
 
 Example: \
 $ ./react-setup "My App Name"
