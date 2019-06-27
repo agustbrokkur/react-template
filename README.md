@@ -3,8 +3,8 @@
 This is a bare bones React Web App without some of the annoying parts.
 All you need to set this App up is to run the given react-setup.sh file with the App name
 
-Example:
-./react-setup "My App Name"
+Example: \
+$ ./react-setup "My App Name"
 
 ## Available Scripts
 
